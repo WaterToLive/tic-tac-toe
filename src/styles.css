@@ -1,12 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Modak&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Jim+Nightshade&display=swap');
 * {
   box-sizing: border-box;
 }
-  .button {
-  background-color: Red;
+  button {
+  background-color: green;
   border: double;
-  color: orange;
+  color: rgb(88, 31, 73);
   border-width: 15px;
   padding: 15px 32px;
   text-align: center;
@@ -17,7 +17,7 @@
   cursor: pointer;
 }
 body {
-  font-family: "modak", cursive;
+  font-family: "Jim Nightshade", cursive;
   margin: 20px;
   padding: 0;
   background-color: lightpink;
